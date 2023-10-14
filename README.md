@@ -1,6 +1,6 @@
 # Traductor Binario
 
-**Este proyecto fue creado con la finalidad de practicar más Python y aprender algo de desarrollo web**
+**_Este proyecto fue creado con la finalidad de practicar más Python y aprender algo de desarrollo web_**
 
 ## Presentación
 
