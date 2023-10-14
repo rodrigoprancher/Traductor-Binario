@@ -4,7 +4,7 @@
 
 ## Presentación
 
-Este proyecto es una aplicación web simple desarrollada con Python, HTML y CSS que permite a los usuarios traducir texto en lenguaje natural a su representación en binario y viceversa. Cabe aclarar que la aplicación **NO** está disponible publicamente, por el momento es solo de uso local.
+Este proyecto es una aplicación web simple desarrollada con Python, HTML y CSS que permite a los usuarios traducir texto en lenguaje natural a su representación en binario y viceversa. Cabe aclarar que la aplicación **NO** está disponible publicamente; por el momento, es solo de uso local.
 
 ## Ejemplos de uso
 
