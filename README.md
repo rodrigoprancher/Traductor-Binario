@@ -15,6 +15,7 @@ Este proyecto es una aplicación web simple desarrollada con Python, HTML y CSS 
 
 Python:
   * Flask
+
 Estructura y estilo:
   * HTML
   * CSS
